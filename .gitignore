@@ -1,0 +1,4 @@
+# Avoid to temporary files.
+tmp/*
+tmp
+tmp.md
